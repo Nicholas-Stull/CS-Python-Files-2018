@@ -1,0 +1,170 @@
+# IPython log file
+
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"
+# Fri, 02 Feb 2018 10:03:33
+print(Hello world)
+# Fri, 02 Feb 2018 10:03:39
+print(Hello world);
+# Fri, 02 Feb 2018 10:03:46
+print(Hello world):
+# Fri, 02 Feb 2018 10:04:10
+print(Hello world,):
+from __future__ import print_function
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy/Nicholas_stull_1_3_5.py"
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"
+%run "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master\setup.py"
+python setup.py install
+python3 setup.py
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"
+slogan = 'My school is the best'
+type(slogan)
+#[Out]# <class 'str'>
+slogan
+#[Out]# 'My school is the best'
+# Fri, 02 Feb 2018 10:26:10
+type('tr' + "y this")
+#[Out]# str
+# Fri, 02 Feb 2018 10:26:19
+type('tr' + 5)
+# Fri, 02 Feb 2018 10:26:44
+#7. (Discuss and explain.)
+# Fri, 02 Feb 2018 10:27:02
+#you cant add sting and number
+# Fri, 02 Feb 2018 10:28:51
+slogan[0]
+#[Out]# 'M'
+# Fri, 02 Feb 2018 10:28:56
+slogan[1]
+#[Out]# 'y'
+# Fri, 02 Feb 2018 10:29:00
+slogan[3]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:29:04
+slogan[4]
+#[Out]# 'c'
+# Fri, 02 Feb 2018 10:29:10
+slogan[5]
+#[Out]# 'h'
+# Fri, 02 Feb 2018 10:29:15
+slogan[6]
+#[Out]# 'o'
+# Fri, 02 Feb 2018 10:29:18
+slogan[7]
+#[Out]# 'o'
+# Fri, 02 Feb 2018 10:29:24
+slogan[8]
+#[Out]# 'l'
+# Fri, 02 Feb 2018 10:29:28
+slogan[9]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:29:35
+slogan[10]
+#[Out]# 'i'
+# Fri, 02 Feb 2018 10:29:39
+slogan[11]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:29:43
+slogan[12]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:29:48
+slogan[13]
+#[Out]# 't'
+# Fri, 02 Feb 2018 10:29:53
+slogan[14]
+#[Out]# 'h'
+# Fri, 02 Feb 2018 10:29:59
+slogan[15]
+#[Out]# 'e'
+# Fri, 02 Feb 2018 10:30:04
+slogan[16]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:30:11
+slogan[17]
+#[Out]# 'b'
+# Fri, 02 Feb 2018 10:30:19
+slogan[19]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:30:25
+slogan[18]
+#[Out]# 'e'
+# Fri, 02 Feb 2018 10:30:33
+slogan[20]
+#[Out]# 't'
+# Fri, 02 Feb 2018 10:31:01
+slogan[21]
+# Fri, 02 Feb 2018 10:32:33
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"# Fri, 02 Feb 2018 10:33:03
+slogan[0:5]
+#[Out]# 'My sc'
+# Fri, 02 Feb 2018 10:33:17
+slogan[5:20]
+#[Out]# 'hool is the bes'
+# Fri, 02 Feb 2018 10:33:44
+ python setup.py install
+# Fri, 02 Feb 2018 10:34:13
+pyserial-x.y
+# Fri, 02 Feb 2018 10:34:58
+pyserial-x.y
+# Fri, 02 Feb 2018 10:35:00
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"# Fri, 02 Feb 2018 10:36:49
+slogan[3:13] + 'awesome!'
+#[Out]# 'school is awesome!'
+# Fri, 02 Feb 2018 10:37:54
+'Berrien Springs High'+slogan[3:13]+ 'Awesome!'
+#[Out]# 'Berrien Springs Highschool is Awesome!'
+# Fri, 02 Feb 2018 10:38:57
+'my'+slogan[3:10]+ 'day is long'
+#[Out]# 'myschool day is long'
+# Fri, 02 Feb 2018 10:39:07
+'my'+ slogan[3:10]+ 'day is long'
+#[Out]# 'myschool day is long'
+# Fri, 02 Feb 2018 10:39:23
+len(slogan)
+#[Out]# 21
+# Fri, 02 Feb 2018 10:40:25
+activity = 'theater'
+# Fri, 02 Feb 2018 10:40:37
+len(activity)
+#[Out]# 7
+# Fri, 02 Feb 2018 10:40:59
+# 11a. (It puts one less than it it)
+# Fri, 02 Feb 2018 10:41:50
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Fri, 02 Feb 2018 10:42:19
+# 12. (goo is in the sentace)
+# Fri, 02 Feb 2018 10:42:24
+%logstop
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"
+# Mon, 05 Feb 2018 10:37:36
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:38:46
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:40:33
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:41:28
+how_eligible(Hello!,"What is YOur name?"
+# Mon, 05 Feb 2018 10:41:41
+how_eligible(Hello!,"What is YOur name?")
+# Mon, 05 Feb 2018 10:41:59
+  File "<ipython-input-7-02bebcb0560b>", line 1
+    how_eligible(Hello!,"What is YOur name?")
+                      ^
+SyntaxError: invalid syntax 
+# Mon, 05 Feb 2018 10:42:10
+how_eligible('Hello!,"What is YOur name?"')
+# Mon, 05 Feb 2018 10:42:30
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:42:34
+how_eligible('Hello!,"What is YOur name?"')
+#[Out]# 4
+# Mon, 05 Feb 2018 10:43:53
+%logstop

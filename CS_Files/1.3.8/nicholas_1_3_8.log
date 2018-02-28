@@ -1,0 +1,76 @@
+# IPython log file
+
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.7"
+%logstart -ort nicholas_1_3_7.log append
+%logstart -ort nicholas_1_3_8.log
+%logstop
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8"
+# Wed, 21 Feb 2018 09:42:21
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 09:43:18
+validate()
+# Wed, 21 Feb 2018 09:43:26
+ra
+# Wed, 21 Feb 2018 09:43:54
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 09:44:53
+guess_winner()
+#[Out]# 1
+# Wed, 21 Feb 2018 09:53:00
+guess_winner()
+#[Out]# 5
+# Wed, 21 Feb 2018 09:58:14
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 09:58:17
+guess_winner()
+#[Out]# 1
+# Wed, 21 Feb 2018 09:59:29
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 09:59:33
+guess_winner()
+#[Out]# 7
+# Wed, 21 Feb 2018 10:01:14
+guess_winner()
+#[Out]# 5
+# Wed, 21 Feb 2018 10:05:15
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.6"# Wed, 21 Feb 2018 10:05:26
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"# Wed, 21 Feb 2018 10:05:40
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"# Wed, 21 Feb 2018 10:06:23
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Wed, 21 Feb 2018 10:06:39
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8"# Wed, 21 Feb 2018 10:06:58
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"# Wed, 21 Feb 2018 10:07:07
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8"# Wed, 21 Feb 2018 10:07:11
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"# Wed, 21 Feb 2018 10:07:15
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"# Wed, 21 Feb 2018 10:07:16
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.6"# Wed, 21 Feb 2018 10:07:17
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8"# Wed, 21 Feb 2018 10:07:22
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:07:43
+guess_once()
+# Wed, 21 Feb 2018 10:07:53
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:07:58
+guess_once()
+# Wed, 21 Feb 2018 10:11:46
+guess_once()
+# Wed, 21 Feb 2018 10:21:14
+guess_once()
+# Wed, 21 Feb 2018 10:22:13
+goguess()
+# Wed, 21 Feb 2018 10:22:24
+goguess()
+# Wed, 21 Feb 2018 10:22:25
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:22:28
+goguess()
+# Wed, 21 Feb 2018 10:24:16
+goguess()
+# Wed, 21 Feb 2018 10:25:03
+goguess()
+# Wed, 21 Feb 2018 10:36:54
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:37:08
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:38:31
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:38:37
+goguess()
+# Wed, 21 Feb 2018 10:39:02
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:39:04
+goguess()
+# Wed, 21 Feb 2018 10:39:26
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:39:29
+goguess()
+# Wed, 21 Feb 2018 10:43:48
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.8/nicholas_1_3_8.py"# Wed, 21 Feb 2018 10:43:51
+goguess()
