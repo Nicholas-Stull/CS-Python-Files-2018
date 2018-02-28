@@ -1,0 +1,126 @@
+# IPython log file
+
+%run "c:\users\21stulni\appdata\local\temp\tmpbsebve.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpcbtszs.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpshbrtm.py"
+%run "c:\users\21stulni\appdata\local\temp\tmppuszm5.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpfgikym.py"
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([  3.00000000e+00,   2.00000000e+01,   1.43000000e+02,
+#[Out]#          9.18000000e+02,   2.52500000e+03,   3.32700000e+03,
+#[Out]#          2.19600000e+03,   7.46000000e+02,   1.12000000e+02,
+#[Out]#          1.00000000e+01]), array([-4.69688857, -3.82737262, -2.95785668, -2.08834073, -1.21882478,
+#[Out]#        -0.34930883,  0.52020712,  1.38972307,  2.25923902,  3.12875497,
+#[Out]#         3.99827092]), <a list of 10 Patch objects>)
+plt.show()
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.2"
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.2\Canopy"
+%logstart -ort studentNames_1_3_2.log
+%logstop
+# Wed, 17 Jan 2018 09:51:10
+#nicholas ipython log
+# Wed, 17 Jan 2018 09:51:48
+#Nicholas 1.3.2 ipython log
+# Wed, 17 Jan 2018 09:51:58
+5+3
+#[Out]# 8
+# Wed, 17 Jan 2018 09:52:46
+5=3.
+# Wed, 17 Jan 2018 09:52:53
+5+3.
+#[Out]# 8.0
+# Wed, 17 Jan 2018 09:53:35
+7*2
+#[Out]# 14
+# Wed, 17 Jan 2018 09:53:43
+7*2.
+#[Out]# 14.0
+# Wed, 17 Jan 2018 09:55:31
+7777+7777
+#[Out]# 15554
+# Wed, 17 Jan 2018 09:57:57
+#multiple by two integers you get integer multiply by at least one float you get a float
+# Wed, 17 Jan 2018 09:58:14
+7/2
+#[Out]# 3
+# Wed, 17 Jan 2018 09:58:19
+7/2.
+#[Out]# 3.5
+# Wed, 17 Jan 2018 09:59:31
+#7b int div by int = int, int div float =float
+# Wed, 17 Jan 2018 09:59:52
+a=2
+# Wed, 17 Jan 2018 09:59:56
+a
+#[Out]# 2
+# Wed, 17 Jan 2018 10:00:01
+a+7
+#[Out]# 9
+# Wed, 17 Jan 2018 10:00:36
+# 8. Assignment
+# Wed, 17 Jan 2018 10:01:06
+student_age=16
+# Wed, 17 Jan 2018 10:01:17
+student_age
+#[Out]# 16
+# Wed, 17 Jan 2018 10:01:47
+3**2
+#[Out]# 9
+# Wed, 17 Jan 2018 10:02:12
+# exponentiation
+# Wed, 17 Jan 2018 10:02:29
+23**43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Wed, 17 Jan 2018 10:03:03
+abs(-7) # absolute value function
+#[Out]# 7
+# Wed, 17 Jan 2018 10:04:24
+%run "c:\users\21stulni\appdata\local\temp\tmpkcr9bu.py"# Wed, 17 Jan 2018 10:05:32
+%run "c:\users\21stulni\appdata\local\temp\tmpfoxsmm.py"# Wed, 17 Jan 2018 10:08:39
+help(add_tip)
+# Wed, 17 Jan 2018 10:13:48
+a = add_tip(20, 0.15)
+# Wed, 17 Jan 2018 10:13:53
+a
+#[Out]# 23.0
+# Wed, 17 Jan 2018 10:14:33
+add_tip(30,0.15)
+#[Out]# 34.5
+# Wed, 17 Jan 2018 10:14:59
+add_tip(30)
+# Wed, 17 Jan 2018 10:16:15
+#takes two olny got one argugumnt cant run
+# Wed, 17 Jan 2018 10:26:24
+#17b meawn test
+# Wed, 17 Jan 2018 10:26:44
+mean(3,4,70)
+# Wed, 17 Jan 2018 10:27:07
+mean(3,4,7)
+# Wed, 17 Jan 2018 10:27:37
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:27:45
+mean(3,4,7)
+#[Out]# 4.666666666666667
+# Wed, 17 Jan 2018 10:33:21
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:33:35
+# 17c. Perimeter test
+# Wed, 17 Jan 2018 10:33:49
+perimeter(3,4)
+#[Out]# 24
+# Wed, 17 Jan 2018 10:34:07
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:34:12
+perimeter(3,4)
+#[Out]# 14
+# Wed, 17 Jan 2018 10:38:32
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:38:41
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:39:03
+# 17a. Hypotenuse test
+# Wed, 17 Jan 2018 10:39:12
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:39:24
+# 17a. Hypotenuse test
+# Wed, 17 Jan 2018 10:39:42
+hyp(3,4)
+#[Out]# 5.0
+# Wed, 17 Jan 2018 10:40:10
+%logstop
