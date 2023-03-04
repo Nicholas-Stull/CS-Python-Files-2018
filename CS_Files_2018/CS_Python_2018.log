@@ -1,0 +1,573 @@
+# 1.3.2
+# IPython log file
+
+%run "c:\users\21stulni\appdata\local\temp\tmpbsebve.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpcbtszs.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpshbrtm.py"
+%run "c:\users\21stulni\appdata\local\temp\tmppuszm5.py"
+%run "c:\users\21stulni\appdata\local\temp\tmpfgikym.py"
+import matplotlib.pyplot as plt
+a = randn(10000)
+plt.hist(a)
+#[Out]# (array([  3.00000000e+00,   2.00000000e+01,   1.43000000e+02,
+#[Out]#          9.18000000e+02,   2.52500000e+03,   3.32700000e+03,
+#[Out]#          2.19600000e+03,   7.46000000e+02,   1.12000000e+02,
+#[Out]#          1.00000000e+01]), array([-4.69688857, -3.82737262, -2.95785668, -2.08834073, -1.21882478,
+#[Out]#        -0.34930883,  0.52020712,  1.38972307,  2.25923902,  3.12875497,
+#[Out]#         3.99827092]), <a list of 10 Patch objects>)
+plt.show()
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.2"
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.2\Canopy"
+%logstart -ort studentNames_1_3_2.log
+%logstop
+# Wed, 17 Jan 2018 09:51:10
+#nicholas ipython log
+# Wed, 17 Jan 2018 09:51:48
+#Nicholas 1.3.2 ipython log
+# Wed, 17 Jan 2018 09:51:58
+5+3
+#[Out]# 8
+# Wed, 17 Jan 2018 09:52:46
+5=3.
+# Wed, 17 Jan 2018 09:52:53
+5+3.
+#[Out]# 8.0
+# Wed, 17 Jan 2018 09:53:35
+7*2
+#[Out]# 14
+# Wed, 17 Jan 2018 09:53:43
+7*2.
+#[Out]# 14.0
+# Wed, 17 Jan 2018 09:55:31
+7777+7777
+#[Out]# 15554
+# Wed, 17 Jan 2018 09:57:57
+#multiple by two integers you get integer multiply by at least one float you get a float
+# Wed, 17 Jan 2018 09:58:14
+7/2
+#[Out]# 3
+# Wed, 17 Jan 2018 09:58:19
+7/2.
+#[Out]# 3.5
+# Wed, 17 Jan 2018 09:59:31
+#7b int div by int = int, int div float =float
+# Wed, 17 Jan 2018 09:59:52
+a=2
+# Wed, 17 Jan 2018 09:59:56
+a
+#[Out]# 2
+# Wed, 17 Jan 2018 10:00:01
+a+7
+#[Out]# 9
+# Wed, 17 Jan 2018 10:00:36
+# 8. Assignment
+# Wed, 17 Jan 2018 10:01:06
+student_age=16
+# Wed, 17 Jan 2018 10:01:17
+student_age
+#[Out]# 16
+# Wed, 17 Jan 2018 10:01:47
+3**2
+#[Out]# 9
+# Wed, 17 Jan 2018 10:02:12
+# exponentiation
+# Wed, 17 Jan 2018 10:02:29
+23**43
+#[Out]# 35834136918934220777541995677272642015423987712183913488967L
+# Wed, 17 Jan 2018 10:03:03
+abs(-7) # absolute value function
+#[Out]# 7
+# Wed, 17 Jan 2018 10:04:24
+%run "c:\users\21stulni\appdata\local\temp\tmpkcr9bu.py"# Wed, 17 Jan 2018 10:05:32
+%run "c:\users\21stulni\appdata\local\temp\tmpfoxsmm.py"# Wed, 17 Jan 2018 10:08:39
+help(add_tip)
+# Wed, 17 Jan 2018 10:13:48
+a = add_tip(20, 0.15)
+# Wed, 17 Jan 2018 10:13:53
+a
+#[Out]# 23.0
+# Wed, 17 Jan 2018 10:14:33
+add_tip(30,0.15)
+#[Out]# 34.5
+# Wed, 17 Jan 2018 10:14:59
+add_tip(30)
+# Wed, 17 Jan 2018 10:16:15
+#takes two olny got one argugumnt cant run
+# Wed, 17 Jan 2018 10:26:24
+#17b meawn test
+# Wed, 17 Jan 2018 10:26:44
+mean(3,4,70)
+# Wed, 17 Jan 2018 10:27:07
+mean(3,4,7)
+# Wed, 17 Jan 2018 10:27:37
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:27:45
+mean(3,4,7)
+#[Out]# 4.666666666666667
+# Wed, 17 Jan 2018 10:33:21
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:33:35
+# 17c. Perimeter test
+# Wed, 17 Jan 2018 10:33:49
+perimeter(3,4)
+#[Out]# 24
+# Wed, 17 Jan 2018 10:34:07
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:34:12
+perimeter(3,4)
+#[Out]# 14
+# Wed, 17 Jan 2018 10:38:32
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:38:41
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:39:03
+# 17a. Hypotenuse test
+# Wed, 17 Jan 2018 10:39:12
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.2/Canopy/Nicholas_1_3_2.py"# Wed, 17 Jan 2018 10:39:24
+# 17a. Hypotenuse test
+# Wed, 17 Jan 2018 10:39:42
+hyp(3,4)
+#[Out]# 5.0
+# Wed, 17 Jan 2018 10:40:10
+%logstop
+---------------------------------------------------------------------------
+# 1.3.3
+# IPython log file
+
+%logstart -ort Nicholas_1_3_3.log
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy"
+%logstart -ort Nicholas_1_3_3.log
+logstop
+# Fri, 19 Jan 2018 09:45:03
+a=3
+# Fri, 19 Jan 2018 09:45:10
+a**2
+#[Out]# 9
+# Fri, 19 Jan 2018 09:45:59
+a==3
+#[Out]# True
+# Fri, 19 Jan 2018 09:46:05
+a====3
+# Fri, 19 Jan 2018 09:46:09
+a==3
+#[Out]# True
+# Fri, 19 Jan 2018 09:46:43
+a!=10
+#[Out]# True
+# Fri, 19 Jan 2018 09:48:28
+a+1 >= 2 and a**2 !=5 # compound conditional
+#[Out]# True
+# Fri, 19 Jan 2018 09:51:32
+# 3a. Prediction:false
+# Fri, 19 Jan 2018 09:51:35
+a**2 >= 9 and not a>3
+#[Out]# True
+# Fri, 19 Jan 2018 09:53:54
+# 3b. Prediction:
+# Fri, 19 Jan 2018 09:54:37
+# 3b. Prediction:true
+# Fri, 19 Jan 2018 09:54:40
+a+2 == 5 or a-1 != 3
+#[Out]# True
+# Fri, 19 Jan 2018 09:57:07
+x, y = (65, 40)
+# Fri, 19 Jan 2018 09:57:09
+x
+#[Out]# 65
+# Fri, 19 Jan 2018 09:57:11
+y
+#[Out]# 40
+# Fri, 19 Jan 2018 09:57:52
+50<x and x<80 and 30<=y and y<=45
+#[Out]# True
+# Fri, 19 Jan 2018 09:59:25
+# 4. Compound conditional
+# Fri, 19 Jan 2018 10:00:54
+40<x and x<130 and 100<=y and y<=120
+#[Out]# False
+# Fri, 19 Jan 2018 10:03:56
+x, y = (90, 115)
+# Fri, 19 Jan 2018 10:03:58
+40<x and x<130 and 100<=y and y<=120
+#[Out]# True
+# Fri, 19 Jan 2018 10:10:33
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:14:34
+age_limit_output(10)
+# Fri, 19 Jan 2018 10:14:43
+age_limit_output(16)
+# Fri, 19 Jan 2018 10:14:54
+age_limit_output(1111)
+# Fri, 19 Jan 2018 10:15:23
+age_limit_output(19)
+# Fri, 19 Jan 2018 10:15:31
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:15:34
+age_limit_output(19)
+# Fri, 19 Jan 2018 10:16:30
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:27:01
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:27:36
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:27:59
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:28:13
+report_grade(98)
+# Fri, 19 Jan 2018 10:28:40
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:28:46
+report_grade(98)
+# Fri, 19 Jan 2018 10:31:47
+'t' in 'string' # includes lowercase t character
+#[Out]# True
+# Fri, 19 Jan 2018 10:32:05
+'T' in 'string' # case matters
+#[Out]# False
+# Fri, 19 Jan 2018 10:32:06
+3 in [1,2,3] # this list contains the int 3
+#[Out]# True
+# Fri, 19 Jan 2018 10:32:18
+'3' in [1,2,3] # '3' is a string, different than 3
+#[Out]# False
+# Fri, 19 Jan 2018 10:33:25
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:34:53
+report_grade(100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+# Fri, 19 Jan 2018 10:35:11
+report_grade(100000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000)
+# Fri, 19 Jan 2018 10:35:28
+report_grade(90)
+# Fri, 19 Jan 2018 10:35:40
+report_grade(60)
+# Fri, 19 Jan 2018 10:36:53
+vowel=w
+# Fri, 19 Jan 2018 10:37:09
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/1.3.3/Canopy/Nicholas_1_3_3.py"# Fri, 19 Jan 2018 10:37:16
+vowel(w)
+# Fri, 19 Jan 2018 10:37:47
+letter_in_word('t', 'secret hangman phrase')
+# Fri, 19 Jan 2018 10:41:18
+#friday jan 19th 10:41
+# Fri, 19 Jan 2018 10:41:24
+%logstop
+%logstart
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy"
+%logstart -ort Nicholas_1_3_3.log append
+%logstop
+# Mon, 22 Jan 2018 10:30:34
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:31:37
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:31:55
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:33:03
+letter_in_word('t', 'secret hangman phrase')
+#[Out]# True
+# Mon, 22 Jan 2018 10:33:18
+letter_in_word('q', 'secret hangman phrase')
+#[Out]# False
+# Mon, 22 Jan 2018 10:34:07
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:34:19
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:34:26
+letter_in_word('t', 'secret hangman phrase')
+# Mon, 22 Jan 2018 10:34:30
+letter_in_word('t', 'secret hangman phrase')
+# Mon, 22 Jan 2018 10:34:40
+letter_in_word('t', 'secret hangman phrase')
+# Mon, 22 Jan 2018 10:34:43
+letter_in_word('q', 'secret hangman phrase')
+# Mon, 22 Jan 2018 10:34:53
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:34:56
+letter_in_word('q', 'secret hangman phrase')
+#[Out]# False
+# Mon, 22 Jan 2018 10:39:56
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Mon, 22 Jan 2018 10:40:13
+%run notepad.exe
+# Mon, 22 Jan 2018 10:41:31
+letter_in_word('a', 'Nicholas')
+#[Out]# True
+# Mon, 22 Jan 2018 10:42:05
+letter_in_word('a', 'Nicholas')
+#[Out]# True
+# Mon, 22 Jan 2018 10:42:12
+letter_in_word('q', 'secret hangman phrase')
+#[Out]# False
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy"
+# Wed, 24 Jan 2018 09:40:20
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\1.3.3\Canopy\Nicholas_1_3_3.py"# Wed, 24 Jan 2018 09:40:47
+secret = ['red','red','yellow','yellow','black']
+# Wed, 24 Jan 2018 09:40:49
+hint('red', secret)
+# Wed, 24 Jan 2018 09:46:41
+secret = ['red','red','yellow','yellow','black']
+# Wed, 24 Jan 2018 09:46:45
+hint('red', secret)
+# Wed, 24 Jan 2018 09:47:13
+hint('purple', secret)
+# Wed, 24 Jan 2018 10:18:44
+hint('blue', secret)
+# Wed, 24 Jan 2018 10:18:52
+%logstop
+
+----------------------------------------------------------------------------------------------------------------------------
+# 1.3.4
+# IPython log file
+
+%cd "C:\Users\21stulni\Google Drive\OSXChromeDecrypt-master\OSXChromeDecrypt-master"
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"
+# Fri, 26 Jan 2018 09:47:59
+%cd "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy"# Fri, 26 Jan 2018 09:48:12
+orange 
+# Fri, 26 Jan 2018 09:48:19
+orange
+# Fri, 26 Jan 2018 09:48:30
+orange
+# Fri, 26 Jan 2018 09:48:33
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Fri, 26 Jan 2018 09:48:36
+orange
+# Fri, 26 Jan 2018 09:48:41
+prange
+# Fri, 26 Jan 2018 09:48:46
+orange
+# Fri, 26 Jan 2018 09:48:54
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Fri, 26 Jan 2018 09:49:26
+food_id('apple')
+#[Out]# 'NOT Citrus, Fruit'
+# Fri, 26 Jan 2018 09:49:33
+food_id('orange')
+#[Out]# 'Citrus, Fruit'
+# Fri, 26 Jan 2018 09:50:49
+#a-17
+# Fri, 26 Jan 2018 09:53:35
+food_id
+#[Out]# <function __main__.food_id>
+# Fri, 26 Jan 2018 09:53:52
+food_id(‘steak’)
+# Fri, 26 Jan 2018 09:54:45
+food_id(steak)
+# Fri, 26 Jan 2018 09:54:56
+food_id('steak')
+#[Out]# 'NOT Starchy, NOT Fruit'
+# Fri, 26 Jan 2018 09:57:35
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Fri, 26 Jan 2018 09:58:24
+food_id_test()
+#[Out]# True
+# Fri, 26 Jan 2018 09:58:37
+food_id_test(1)
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"
+%logstart -ort apend
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"
+food_id_test()
+#[Out]# True
+%logstop
+%logstop -ort apend
+logstart-ort Nicholas_1_3_4 apend
+%logstart -ort Nicholas_1_3_4.log apend
+# Fri, 26 Jan 2018 10:04:46
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Fri, 26 Jan 2018 10:04:51
+food_id_test()
+#[Out]# True
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"
+%logstar -ort Nicholas_1_3_4.log append
+# Fri, 26 Jan 2018 10:06:21
+%run "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Fri, 26 Jan 2018 10:08:57
+%cd "C:\Users\21stulni\Google Drive\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"# Fri, 26 Jan 2018 10:11:51
+f(x)
+# Fri, 26 Jan 2018 10:23:06
+%run "C:/Users/21stulni/Google Drive/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Fri, 26 Jan 2018 10:23:16
+f(208)
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy"
+# Wed, 31 Jan 2018 09:46:27
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:46:52
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 09:48:43
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:50:26
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:54:42
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:56:57
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:57:58
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:59:01
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:59:25
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.4\Canopy\Nicholas_1_3_4.py"# Wed, 31 Jan 2018 09:59:45
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:00:14
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:03:09
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Wed, 31 Jan 2018 10:03:31
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Wed, 31 Jan 2018 10:03:37
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:04:12
+u'~/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy'
+#[Out]# '~/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy'
+# Wed, 31 Jan 2018 10:04:16
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:04:25
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:04:36
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:05:41
+quiz_decimal(4, 4.1)
+# Wed, 31 Jan 2018 10:05:58
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"# Wed, 31 Jan 2018 10:06:01
+quiz_decimal(4, 4.1)
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.4/Canopy/Nicholas_1_3_4.py"
+# Wed, 31 Jan 2018 10:20:11
+%logstop
+
+---------------------------------------------------------------------------
+# 1.3.5
+
+# IPython log file
+
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"
+# Fri, 02 Feb 2018 10:03:33
+print(Hello world)
+# Fri, 02 Feb 2018 10:03:39
+print(Hello world);
+# Fri, 02 Feb 2018 10:03:46
+print(Hello world):
+# Fri, 02 Feb 2018 10:04:10
+print(Hello world,):
+from __future__ import print_function
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if input('One character: ') == '!':
+    print('Wow', end='!')
+if raw_input('One character: ') == '!':
+    print('Wow', end='!')
+%run "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy/Nicholas_stull_1_3_5.py"
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"
+%run "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master\setup.py"
+python setup.py install
+python3 setup.py
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"
+slogan = 'My school is the best'
+type(slogan)
+#[Out]# <class 'str'>
+slogan
+#[Out]# 'My school is the best'
+# Fri, 02 Feb 2018 10:26:10
+type('tr' + "y this")
+#[Out]# str
+# Fri, 02 Feb 2018 10:26:19
+type('tr' + 5)
+# Fri, 02 Feb 2018 10:26:44
+#7. (Discuss and explain.)
+# Fri, 02 Feb 2018 10:27:02
+#you cant add sting and number
+# Fri, 02 Feb 2018 10:28:51
+slogan[0]
+#[Out]# 'M'
+# Fri, 02 Feb 2018 10:28:56
+slogan[1]
+#[Out]# 'y'
+# Fri, 02 Feb 2018 10:29:00
+slogan[3]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:29:04
+slogan[4]
+#[Out]# 'c'
+# Fri, 02 Feb 2018 10:29:10
+slogan[5]
+#[Out]# 'h'
+# Fri, 02 Feb 2018 10:29:15
+slogan[6]
+#[Out]# 'o'
+# Fri, 02 Feb 2018 10:29:18
+slogan[7]
+#[Out]# 'o'
+# Fri, 02 Feb 2018 10:29:24
+slogan[8]
+#[Out]# 'l'
+# Fri, 02 Feb 2018 10:29:28
+slogan[9]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:29:35
+slogan[10]
+#[Out]# 'i'
+# Fri, 02 Feb 2018 10:29:39
+slogan[11]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:29:43
+slogan[12]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:29:48
+slogan[13]
+#[Out]# 't'
+# Fri, 02 Feb 2018 10:29:53
+slogan[14]
+#[Out]# 'h'
+# Fri, 02 Feb 2018 10:29:59
+slogan[15]
+#[Out]# 'e'
+# Fri, 02 Feb 2018 10:30:04
+slogan[16]
+#[Out]# ' '
+# Fri, 02 Feb 2018 10:30:11
+slogan[17]
+#[Out]# 'b'
+# Fri, 02 Feb 2018 10:30:19
+slogan[19]
+#[Out]# 's'
+# Fri, 02 Feb 2018 10:30:25
+slogan[18]
+#[Out]# 'e'
+# Fri, 02 Feb 2018 10:30:33
+slogan[20]
+#[Out]# 't'
+# Fri, 02 Feb 2018 10:31:01
+slogan[21]
+# Fri, 02 Feb 2018 10:32:33
+%cd "C:\Users\Nicholas\Documents\Programming\Programming\Python_Arduino\pyserial-master"# Fri, 02 Feb 2018 10:33:03
+slogan[0:5]
+#[Out]# 'My sc'
+# Fri, 02 Feb 2018 10:33:17
+slogan[5:20]
+#[Out]# 'hool is the bes'
+# Fri, 02 Feb 2018 10:33:44
+ python setup.py install
+# Fri, 02 Feb 2018 10:34:13
+pyserial-x.y
+# Fri, 02 Feb 2018 10:34:58
+pyserial-x.y
+# Fri, 02 Feb 2018 10:35:00
+%cd "C:/Users/Nicholas/Google Drive (21stulni@homeoftheshamrocks.org)/High School/9th Grade/Cs/unit 1/1.3/python/1.3.5/Canopy"# Fri, 02 Feb 2018 10:36:49
+slogan[3:13] + 'awesome!'
+#[Out]# 'school is awesome!'
+# Fri, 02 Feb 2018 10:37:54
+'Berrien Springs High'+slogan[3:13]+ 'Awesome!'
+#[Out]# 'Berrien Springs Highschool is Awesome!'
+# Fri, 02 Feb 2018 10:38:57
+'my'+slogan[3:10]+ 'day is long'
+#[Out]# 'myschool day is long'
+# Fri, 02 Feb 2018 10:39:07
+'my'+ slogan[3:10]+ 'day is long'
+#[Out]# 'myschool day is long'
+# Fri, 02 Feb 2018 10:39:23
+len(slogan)
+#[Out]# 21
+# Fri, 02 Feb 2018 10:40:25
+activity = 'theater'
+# Fri, 02 Feb 2018 10:40:37
+len(activity)
+#[Out]# 7
+# Fri, 02 Feb 2018 10:40:59
+# 11a. (It puts one less than it it)
+# Fri, 02 Feb 2018 10:41:50
+'test goo' in 'Greatest good for the greatest number!'
+#[Out]# True
+# Fri, 02 Feb 2018 10:42:19
+# 12. (goo is in the sentace)
+# Fri, 02 Feb 2018 10:42:24
+%logstop
+%cd "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy"
+# Mon, 05 Feb 2018 10:37:36
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:38:46
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:40:33
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:41:28
+how_eligible(Hello!,"What is YOur name?"
+# Mon, 05 Feb 2018 10:41:41
+how_eligible(Hello!,"What is YOur name?")
+# Mon, 05 Feb 2018 10:41:59
+  File "<ipython-input-7-02bebcb0560b>", line 1
+    how_eligible(Hello!,"What is YOur name?")
+                      ^
+SyntaxError: invalid syntax 
+# Mon, 05 Feb 2018 10:42:10
+how_eligible('Hello!,"What is YOur name?"')
+# Mon, 05 Feb 2018 10:42:30
+%run "C:\Users\Nicholas\Google Drive (21stulni@homeoftheshamrocks.org)\High School\9th Grade\Cs\unit 1\1.3\python\1.3.5\Canopy\Nicholas_stull_1_3_5.py"# Mon, 05 Feb 2018 10:42:34
+how_eligible('Hello!,"What is YOur name?"')
+#[Out]# 4
+# Mon, 05 Feb 2018 10:43:53
+%logstop
